@@ -34,3 +34,4 @@ exclude:
   - Gemfile.lock
 
 permalink: :title
+exclude: ["README.md"]
